@@ -1,0 +1,2 @@
+Save and unzip the data files (toxicity_pairwise) here.
+https://drive.google.com/file/d/1BmBkhNS4R2z5UwqVu5GhaTvFFeWOJfPC/view?usp=drive_link
